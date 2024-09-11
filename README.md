@@ -1,2 +1,2 @@
-# Gateway-LoRa---GSM
+# Gateway LoRa GSM Dev
 Gateway LoRa - GSM
